@@ -16,7 +16,8 @@
  📈 Achievements
 - 🥇 5-star Gold in Python on HackerRank
 - 🥉 Bronze in Java & Problem Solving on HackerRank
-- 🎓 Certifications in 'C for Everyone' and 'Python Data Structures'
+- 🎓 Certifications in 'C for Everyone','Python Data Structures' and 'AWS cloud Practitioners Essentials'. 
+ 
 
  📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/amulyakaleru)
